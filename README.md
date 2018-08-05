@@ -1,13 +1,9 @@
-# markdown-emoji
-Markdown语法支持添加 `emoji` 表情，输入不同的符号码（两个冒号包围的字符）可以显示出不同的表情
-
-# emoji表情列表
-
 [![](https://img.shields.io/github/issues/javef/markdown.svg)](https://github.com/javef/markdown/issues)
 [![](https://img.shields.io/github/forks/javef/markdown.svg)](https://github.com/javef/markdown/network) 
 [![](https://img.shields.io/github/stars/javef/markdown.svg)](https://github.com/javef/markdown/stargazers)
 
-目录
+# markdown-emoji
+Markdown语法支持添加 `emoji` 表情，输入不同的符号码（两个冒号包围的字符）可以显示出不同的表情
 
 -----------------
 
